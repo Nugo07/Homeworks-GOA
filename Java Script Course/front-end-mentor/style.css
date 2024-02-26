@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profile {
+    margin: 0 auto;
+    width: 300px;
+  }
+  
+  .profile h1 {
+    font-size: 2rem;
+  }
+  
+  .profile p {
+    font-size: 1.2rem;
+  }
+  
+  .links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .links a {
+    text-decoration: none;
+    color: #333;
+  }
